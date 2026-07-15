@@ -1,0 +1,10 @@
+# ASP.NET C# Project
+
+This project was developed during my internship at the Royal Scientific Society (RSS).
+
+## Download the complete project
+
+The full project files are available on Google Drive due to GitHub's file size limitations.
+
+Google Drive:
+https://drive.google.com/your-link-here
